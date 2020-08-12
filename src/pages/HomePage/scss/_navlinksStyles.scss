@@ -1,0 +1,25 @@
+@mixin navLinksCommonStyles($paddingLeft, $fontFamily, $fontSize) {
+    text-decoration: none;
+    text-transform: uppercase;
+    margin-left: $paddingLeft;
+    font-family: $fontFamily;
+    font-size: $fontSize;
+}
+
+.links {
+    display: flex;
+    justify-content: center;
+    padding: 40px 0;
+
+    a {
+        @include navLinksCommonStyles(50px, MontserratBold, 16px);
+        cursor: pointer;
+        color: #f5f5f5;
+    }
+
+    a:hover {
+        color: darken(#f5f5f5, 15%);
+    }
+
+    // background-image: linear-gradient(rgba(0,0,0,.5), transparent);
+}

@@ -1,0 +1,95 @@
+$globalHorizontalSpace: 100px;
+$globalVerticalSpace: 25px;
+
+.actionsWrapper {
+    width: 130px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: $globalHorizontalSpace;
+    margin-top: 80px;
+
+    animation: moveInBottom 0.8s ease-out;
+    animation-fill-mode: backwards;
+}
+
+@keyframes moveInBottom {
+    0% {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.action {
+    background-image: linear-gradient(#663366, #990000);
+    
+    border: none;
+    border-radius: 50%;
+    outline: none;
+
+    z-index: 2;
+    cursor: pointer;
+
+    width: 50px;
+    height: 50px;
+    
+    position: relative;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    -webkit-box-shadow: 0px 4px 19px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 4px 19px 1px rgba(0,0,0,0.75);
+    box-shadow: 0px 4px 19px 1px rgba(0,0,0,0.75);
+
+    transition: all 0.3s ease-out;
+}
+
+.action:hover {
+    transform: translateY(-4px);
+}
+
+.action:focus {
+    outline: 0;
+}
+
+.action:active {
+    transform: translateY(-1px);
+}
+
+.action::after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    
+    display: inline-block;
+    
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    border-radius: 100px;
+    background-image: linear-gradient(#663366, #990000);
+
+    z-index: -1;
+    transition: all 0.5s ease-out;
+}
+
+.action:hover::after {
+    transform: scaleX(1.6) scaleY(1.6);
+    opacity: 0;
+}
+
+.icon {
+    width: 80%;
+    height: 80%;
+    padding: 5px;
+}
+
+.play-icon {
+    margin-left: 3px;
+}

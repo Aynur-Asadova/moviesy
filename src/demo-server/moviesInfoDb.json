@@ -1,0 +1,215 @@
+{
+    "movies":[
+        {
+            "id":24892744,
+            "movie_genres":"Drama",
+            "movie_title":"Moonlight",
+            "released_date":"11/08/2016",
+            "imdb_total": 7.4,
+            "slider_bg_photo_url": "https://beaveronline.co.uk/wp-content/uploads/2018/10/moonlight-film-movie-2016.11548.jpg",
+            "cover_photo_url":"https://m.media-amazon.com/images/M/MV5BNzQxNTIyODAxMV5BMl5BanBnXkFtZTgwNzQyMDA3OTE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+            "time_duration_in_seconds": 5436,
+            "trailer": "https://www.imdb.com/video/vi2935863321?playlistId=tt4975722",
+            "director": "Barry Jenkins",
+            "writer": [
+                "Barry Jenkins", 
+                "Tarell Alvin McCraney"
+            ],
+            "stars": [
+                "Mahershala Ali", 
+                "Naomie Harris", 
+                "Trevante Rhodes"
+            ]
+        },
+        {
+            "id":24992744,
+            "movie_genres":"Comedy / Drama",
+            "movie_title":"Once Upon a Time in Hollywood",
+            "released_date":"7/26/2019",
+            "imdb_total": 7.7,
+            "slider_bg_photo_url": "https://patch.com/img/cdn20/users/2017057/20191213/023016/styles/patch_image/public/once-bluray___13022803666.png",
+            "cover_photo_url":"https://m.media-amazon.com/images/M/MV5BOTg4ZTNkZmUtMzNlZi00YmFjLTk1MmUtNWQwNTM0YjcyNTNkXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_UX182_CR0,0,182,268_AL_.jpg",
+            "time_duration_in_seconds": 8676,
+            "trailer": "https://www.imdb.com/video/vi1385741849?playlistId=tt7131622",
+            "director": "Quention Tarantino",
+            "writer": "Quention Tarantino",
+            "stars": [
+                "Leonardo DiCaprio", 
+                "Brad Pitt", 
+                "Margot Robbie"
+            ]
+        },
+        {
+            "id":25092744,
+            "movie_genres":"Crime / Drama / Thriller",
+            "movie_title":"Joker",
+            "released_date":"10/4/2019",
+            "imdb_total": 8.5,
+            "slider_bg_photo_url": "https://i1.wp.com/www.thenerddaily.com/wp-content/uploads/2020/02/Joker-Oscars-Best-Picture-2020.jpeg?fit=1000%2C742&ssl=1",
+            "cover_photo_url":"https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+            "time_duration_in_seconds": 7920,
+            "trailer": "https://www.imdb.com/video/vi1723318041?playlistId=tt7286456",
+            "director": "Todd Phillips",
+            "writer": [
+                "Todd Phillips", 
+                "Scott Silver"
+            ],
+            "stars": [
+                "Joaquin Phoenix", 
+                "Robert De Niro", 
+                "Zazie Beetz"
+            ]
+        },
+        {
+            "id":25192744,
+            "movie_genres":"Comedy / Horror / Mystery",
+            "movie_title":"Ready or Not",
+            "released_date":"8/21/2019",
+            "imdb_total": 6.8,
+            "slider_bg_photo_url": "https://badfeelingmag.com/wp-content/uploads/2019/08/ready_or_not_poster_crop_1050_591_81_s_c1.jpg",
+            "cover_photo_url":"https://m.media-amazon.com/images/M/MV5BYzBkMzAyMDUtZTFkZS00OWUyLTgwM2ItNGI3MTQ5NzA3NTVkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+            "time_duration_in_seconds": 4860,
+            "trailer": "https://www.imdb.com/video/vi703381273?playlistId=tt7798634",
+            "director": [
+                "Matt Bettinelli-Olpin",
+                "Tyler Gillett"
+            ],
+            "writer": [
+                "Guy Busick",
+                "R. Christopher Murphy"
+            ],
+            "stars": [
+                "Samara Weaving", 
+                "Adam Brody", 
+                "Mark O'Brien"
+            ]
+        },
+
+        {
+            "id":25092750,
+            "movie_genres":"Crime / Drama / Thriller",
+            "movie_title":"Joker",
+            "released_date":"10/4/2019",
+            "imdb_total": 8.5,
+            "slider_bg_photo_url": "https://i1.wp.com/www.thenerddaily.com/wp-content/uploads/2020/02/Joker-Oscars-Best-Picture-2020.jpeg?fit=1000%2C742&ssl=1",
+            "cover_photo_url":"https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+            "time_duration_in_seconds": 7920,
+            "trailer": "https://www.imdb.com/video/vi1723318041?playlistId=tt7286456",
+            "director": "Todd Phillips",
+            "writer": [
+                "Todd Phillips", 
+                "Scott Silver"
+            ],
+            "stars": [
+                "Joaquin Phoenix", 
+                "Robert De Niro", 
+                "Zazie Beetz"
+            ]
+        },
+        {
+            "id":25092749,
+            "movie_genres":"Crime / Drama / Thriller",
+            "movie_title":"Joker",
+            "released_date":"10/4/2019",
+            "imdb_total": 8.5,
+            "slider_bg_photo_url": "https://i1.wp.com/www.thenerddaily.com/wp-content/uploads/2020/02/Joker-Oscars-Best-Picture-2020.jpeg?fit=1000%2C742&ssl=1",
+            "cover_photo_url":"https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+            "time_duration_in_seconds": 7920,
+            "trailer": "https://www.imdb.com/video/vi1723318041?playlistId=tt7286456",
+            "director": "Todd Phillips",
+            "writer": [
+                "Todd Phillips", 
+                "Scott Silver"
+            ],
+            "stars": [
+                "Joaquin Phoenix", 
+                "Robert De Niro", 
+                "Zazie Beetz"
+            ]
+        },
+        {
+            "id":25092748,
+            "movie_genres":"Crime / Drama / Thriller",
+            "movie_title":"Joker",
+            "released_date":"10/4/2019",
+            "imdb_total": 8.5,
+            "slider_bg_photo_url": "https://i1.wp.com/www.thenerddaily.com/wp-content/uploads/2020/02/Joker-Oscars-Best-Picture-2020.jpeg?fit=1000%2C742&ssl=1",
+            "cover_photo_url":"https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+            "time_duration_in_seconds": 7920,
+            "trailer": "https://www.imdb.com/video/vi1723318041?playlistId=tt7286456",
+            "director": "Todd Phillips",
+            "writer": [
+                "Todd Phillips", 
+                "Scott Silver"
+            ],
+            "stars": [
+                "Joaquin Phoenix", 
+                "Robert De Niro", 
+                "Zazie Beetz"
+            ]
+        },
+        {
+            "id":25092747,
+            "movie_genres":"Crime / Drama / Thriller",
+            "movie_title":"Joker",
+            "released_date":"10/4/2019",
+            "imdb_total": 8.5,
+            "slider_bg_photo_url": "https://i1.wp.com/www.thenerddaily.com/wp-content/uploads/2020/02/Joker-Oscars-Best-Picture-2020.jpeg?fit=1000%2C742&ssl=1",
+            "cover_photo_url":"https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+            "time_duration_in_seconds": 7920,
+            "trailer": "https://www.imdb.com/video/vi1723318041?playlistId=tt7286456",
+            "director": "Todd Phillips",
+            "writer": [
+                "Todd Phillips", 
+                "Scott Silver"
+            ],
+            "stars": [
+                "Joaquin Phoenix", 
+                "Robert De Niro", 
+                "Zazie Beetz"
+            ]
+        },
+        {
+            "id":25092746,
+            "movie_genres":"Crime / Drama / Thriller",
+            "movie_title":"Joker",
+            "released_date":"10/4/2019",
+            "imdb_total": 8.5,
+            "slider_bg_photo_url": "https://i1.wp.com/www.thenerddaily.com/wp-content/uploads/2020/02/Joker-Oscars-Best-Picture-2020.jpeg?fit=1000%2C742&ssl=1",
+            "cover_photo_url":"https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+            "time_duration_in_seconds": 7920,
+            "trailer": "https://www.imdb.com/video/vi1723318041?playlistId=tt7286456",
+            "director": "Todd Phillips",
+            "writer": [
+                "Todd Phillips", 
+                "Scott Silver"
+            ],
+            "stars": [
+                "Joaquin Phoenix", 
+                "Robert De Niro", 
+                "Zazie Beetz"
+            ]
+        },
+        {
+            "id":25092745,
+            "movie_genres":"Crime / Drama / Thriller",
+            "movie_title":"Joker",
+            "released_date":"10/4/2019",
+            "imdb_total": 8.5,
+            "slider_bg_photo_url": "https://i1.wp.com/www.thenerddaily.com/wp-content/uploads/2020/02/Joker-Oscars-Best-Picture-2020.jpeg?fit=1000%2C742&ssl=1",
+            "cover_photo_url":"https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+            "time_duration_in_seconds": 7920,
+            "trailer": "https://www.imdb.com/video/vi1723318041?playlistId=tt7286456",
+            "director": "Todd Phillips",
+            "writer": [
+                "Todd Phillips", 
+                "Scott Silver"
+            ],
+            "stars": [
+                "Joaquin Phoenix", 
+                "Robert De Niro", 
+                "Zazie Beetz"
+            ]
+        }
+       ]
+}

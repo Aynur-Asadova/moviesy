@@ -1,0 +1,40 @@
+$globalHorizontalSpace: 100px;
+$globalVerticalSpace: 25px;
+
+.detailsContainer {
+    background-color: transparent;
+    padding-left: $globalHorizontalSpace;
+    margin-top: $globalVerticalSpace * 3;
+}
+
+@mixin commonTextStyles($fontFamily, $fontSize) {
+    color: white;
+    font-family: $fontFamily;
+    font-size: $fontSize;
+}
+
+.titleOfMovie {
+    @include commonTextStyles(MontserratBold, 36px);
+    text-transform: uppercase;
+    text-overflow: ellipsis;
+}
+
+.descOfMovie {
+    @include commonTextStyles(MontserratMedium, 20px);
+}
+
+.detailOfMovie {
+    @include commonTextStyles(MontserratLight, 18px)
+}
+
+.imdbOfMovie {
+    @include commonTextStyles(MontserratBold, 19px)
+}
+
+.imdb {
+    border: 1px solid white;
+    border-radius: 4px;
+    padding: 2px 4px;
+    margin-right: 13px;
+    background-color: rgba(0,0,0,.2);
+}

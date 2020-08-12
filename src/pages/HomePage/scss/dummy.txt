@@ -1,0 +1,49 @@
+@import "_playBtn.scss";
+@import "_addToLaterBtn.scss";
+
+$globalHorizontalSpace: 100px;
+$globalVerticalSpace: 25px;
+
+.actionsWrapper {
+    width: 130px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: $globalHorizontalSpace;
+    margin-top: 80px;
+}
+
+.action {
+    background-image: linear-gradient(#663366, #990000);
+    
+    border: none;
+    border-radius: 50%;
+    outline: none;
+
+    z-index: 5;
+    cursor: pointer;
+
+    width: 50px;
+    height: 50px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    -webkit-box-shadow: 0px 4px 19px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 4px 19px 1px rgba(0,0,0,0.75);
+    box-shadow: 0px 4px 19px 1px rgba(0,0,0,0.75);
+}
+
+.action:focus {
+    outline: 0 !important;
+    border: 1px solid gray;
+}
+
+.icon {
+    width: 90%;
+    height: 90%;
+    padding: 5px;
+}
+
+.play-icon {
+    margin-left: 3px;
+}
